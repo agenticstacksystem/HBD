@@ -111,7 +111,7 @@ export const DuaSection = () => {
       {/* Section header */}
       <div className="text-center mb-16 space-y-4">
         <h2 className="text-4xl md:text-5xl font-display font-bold text-gradient-gold glow-gold">
-          Islamic Birthday Duas
+          Happy Birthday
         </h2>
         <p className="text-muted-foreground text-lg max-w-xl mx-auto">
           Blessed prayers and supplications for a wonderful year ahead
