@@ -50,7 +50,7 @@ export const HeroSection = () => {
           
           {showName && (
             <span className="block text-6xl md:text-8xl lg:text-9xl font-display font-bold text-gradient-gold glow-gold animate-reveal-text">
-              Dear Brother Abdul Rehman
+              Dear Brother Rana Munib
             </span>
           )}
         </h1>
