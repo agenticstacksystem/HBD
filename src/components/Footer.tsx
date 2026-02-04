@@ -44,7 +44,7 @@ export const Footer = () => {
           Made with love and duas • {new Date().getFullYear()}
         </p>
         <p className="text-gold/70 text-sm mt-2 font-display">
-          By Hammad Ur Rehman
+          By Rana Zohaib
         </p>
       </div>
     </footer>
